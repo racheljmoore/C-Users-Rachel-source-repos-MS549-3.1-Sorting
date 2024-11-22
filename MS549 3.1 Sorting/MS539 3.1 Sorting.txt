@@ -1,0 +1,11 @@
+﻿Build started at 10:21 PM...
+1>------ Build started: Project: MS549 3.1 Sorting, Configuration: Debug x64 ------
+1>Main.cpp
+1>C:\Users\Rachel\source\repos\MS549 3.1 Sorting\MS549 3.1 Sorting\Main.cpp(39,6): error C2374: 'n': redefinition; multiple initialization
+1>C:\Users\Rachel\source\repos\MS549 3.1 Sorting\MS549 3.1 Sorting\Main.cpp(41,7): error C2371: 'startHigh': redefinition; different basic types
+1>C:\Users\Rachel\source\repos\MS549 3.1 Sorting\MS549 3.1 Sorting\Main.cpp(43,7): error C2371: 'endHigh': redefinition; different basic types
+1>C:\Users\Rachel\source\repos\MS549 3.1 Sorting\MS549 3.1 Sorting\Main.cpp(45,32): error C2374: 'diff': redefinition; multiple initialization
+1>C:\Users\Rachel\source\repos\MS549 3.1 Sorting\MS549 3.1 Sorting\Main.cpp(45,47): error C2088: built-in operator '-' cannot be applied to an operand of type 'std::chrono::steady_clock::time_point'
+1>Done building project "MS549 3.1 Sorting.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 10:21 PM and took 00.703 seconds ==========
