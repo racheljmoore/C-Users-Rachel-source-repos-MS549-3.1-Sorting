@@ -38,6 +38,10 @@ int main()
 
 	int n = sizeof(nums) / sizeof(nums[0]);
 	//startHigh = std::chrono::high_resolution_clock::();
+
+
+
+
 	auto startHigh = std::chrono::high_resolution_clock::now();
 	sort(nums, nums2 + n);
 	auto endHigh = std::chrono::high_resolution_clock::now();
