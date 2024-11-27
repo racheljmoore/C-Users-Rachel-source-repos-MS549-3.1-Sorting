@@ -18,12 +18,18 @@
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Bubble.cpp">
+    <ClCompile Include="bubbleSort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="selectionSort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Bubble.h">
+    <ClInclude Include="bubbleSort.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="selectionSort.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
