@@ -23,7 +23,4 @@ void sortSelection(vector< int >& arr)
 		swap(arr[i], arr[a]);
 
 	}
-	cout << "Array after iteration " << i + 1 << ": ";
-	for (int num : arr) cout << num << " ";
-	cout << endl;
 }
